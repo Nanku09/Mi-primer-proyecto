@@ -1,2 +1,2 @@
-# Mi-primer-proyecto
-Practica de github y github desde la web
+# ¡Hola mundo!
+Este es mi primer proyecto en github , estoy prendiendo desde cero
